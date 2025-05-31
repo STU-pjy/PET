@@ -6,4 +6,6 @@ api:deepseek
 
 轻量级代码：PET.py  
 运行exe:PET_exe---->dist---->PET---->PET.exe（使用前需要将mod文件放入PET文件夹中）  
-mod：图片（可自由DIY）
+mod：图片（可自由DIY）  
+
+![background](https://github.com/user-attachments/assets/3e4eee37-01d4-4b7e-bc95-ac3e1177c27a)
