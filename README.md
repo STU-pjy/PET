@@ -5,5 +5,5 @@ api:deepseek
 特别鸣谢：鲤鱼蒽、杨zy女王、某名姓张的go学长  
 
 轻量级代码：PET.py  
-运行exe:PET_exe---->dist---->PET---->PET.exe（使用前需要将MOD文件放入PET文件夹中）  
-MOD：图片（可自由DIY）
+运行exe:PET_exe---->dist---->PET---->PET.exe（使用前需要将mod文件放入PET文件夹中）  
+mod：图片（可自由DIY）
